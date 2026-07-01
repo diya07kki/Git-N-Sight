@@ -43,7 +43,7 @@ with st.sidebar:
 
     st.image(
         "assets/logo.png",
-        width=70
+        width=500
     )
 
     st.title("GitNSight")
